@@ -3,14 +3,20 @@ import shutil
 import logging
 from typing import List, Tuple
 
-# Конфигурация логгера
+# Define the log file path inside the target directory
+log_dir = "/Users/admin/Desktop/DriverLens/task4"
+log_file = os.path.join(log_dir, "file_processor.log")
+
+# Ensure the log directory exists
+os.makedirs(log_dir, exist_ok=True)
+
+# Configure logging
 logging.basicConfig(
-    filename="file_processor.log",  # Имя файла логов
-    level=logging.INFO,  # Уровень логирования: INFO
-    format="%(asctime)s - %(levelname)s - %(message)s",  # Формат сообщений лога
+    filename=log_file,  # Full path to log file
+    level=logging.INFO,
+    format="%(asctime)s - %(levelname)s - %(message)s",
 )
 logger = logging.getLogger(__name__)
-
 
 class FileProcessor:
     @staticmethod

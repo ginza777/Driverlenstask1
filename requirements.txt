@@ -1,0 +1,5 @@
+tabulate
+shapely
+pymongo
+numpy
+ipython
