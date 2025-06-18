@@ -1,0 +1,88 @@
+2025-06-17 12:45:04,800 - ERROR - Source directory '/path/to/source' does not exist.
+2025-06-17 12:45:04,801 - ERROR - An error occurred while copying directory: Source directory '/path/to/source' does not exist.
+2025-06-17 12:45:18,154 - ERROR - Source directory '/path/to/source' does not exist.
+2025-06-17 12:45:18,154 - ERROR - An error occurred while copying directory: Source directory '/path/to/source' does not exist.
+2025-06-17 12:45:18,154 - ERROR - Directory '/path/to/directory' does not exist.
+2025-06-17 12:45:18,155 - ERROR - An error occurred during file processing: Directory '/path/to/directory' does not exist.
+2025-06-17 12:54:57,501 - ERROR - Source directory '/Users/admin/Desktop/DriverLens/task4/source' does not exist.
+2025-06-17 12:54:57,501 - ERROR - An error occurred while copying directory: Source directory '/Users/admin/Desktop/DriverLens/task4/source' does not exist.
+2025-06-17 12:54:57,501 - ERROR - Directory '/path/to/directory' does not exist.
+2025-06-17 12:54:57,501 - ERROR - An error occurred during file processing: Directory '/path/to/directory' does not exist.
+2025-06-17 12:55:08,691 - ERROR - Source directory '/Users/admin/Desktop/DriverLens/task4/source' does not exist.
+2025-06-17 12:55:08,691 - ERROR - An error occurred while copying directory: Source directory '/Users/admin/Desktop/DriverLens/task4/source' does not exist.
+2025-06-17 12:55:08,691 - INFO - Processed file '/Users/admin/Desktop/DriverLens/task4/file_processor.log' with 12 lines.
+2025-06-17 12:55:08,691 - INFO - Processed files in directory '/Users/admin/Desktop/DriverLens/task4' with extensions ['.txt', '.log'].
+2025-06-17 12:56:22,852 - INFO - Target directory '/Users/admin/Desktop/DriverLens/task4/target' is ready.
+2025-06-17 12:56:22,852 - INFO - Successfully copied contents from '/Users/admin/Desktop/DriverLens/task4/source' to '/Users/admin/Desktop/DriverLens/task4/target'.
+2025-06-17 12:56:22,852 - INFO - Processed file '/Users/admin/Desktop/DriverLens/task4/file_processor.log' with 16 lines.
+2025-06-17 12:56:22,852 - INFO - Processed files in directory '/Users/admin/Desktop/DriverLens/task4' with extensions ['.txt', '.log'].
+2025-06-17 12:57:12,559 - INFO - Target directory '/Users/admin/Desktop/DriverLens/task4/target' is ready.
+2025-06-17 12:57:12,560 - INFO - Successfully copied contents from '/Users/admin/Desktop/DriverLens/task4/source' to '/Users/admin/Desktop/DriverLens/task4/target'.
+2025-06-17 12:57:12,560 - INFO - Processed file '/Users/admin/Desktop/DriverLens/task4/file_processor.log' with 20 lines.
+2025-06-17 12:57:12,560 - INFO - Processed file '/Users/admin/Desktop/DriverLens/task4/test.txt' with 0 lines.
+2025-06-17 12:57:12,560 - INFO - Processed files in directory '/Users/admin/Desktop/DriverLens/task4' with extensions ['.txt', '.log'].
+2025-06-17 13:00:06,513 - INFO - Target directory '/Users/admin/Desktop/DriverLens/task4/target' is ready.
+2025-06-17 13:00:06,514 - INFO - Copied file '/Users/admin/Desktop/DriverLens/task4/source/test.log' to '/Users/admin/Desktop/DriverLens/task4/target/./test.log'.
+2025-06-17 13:00:06,514 - INFO - Copied file '/Users/admin/Desktop/DriverLens/task4/source/test.txt' to '/Users/admin/Desktop/DriverLens/task4/target/./test.txt'.
+2025-06-17 13:00:06,514 - INFO - Successfully copied contents from '/Users/admin/Desktop/DriverLens/task4/source' to '/Users/admin/Desktop/DriverLens/task4/target'.
+2025-06-17 13:00:06,514 - INFO - Processed file '/Users/admin/Desktop/DriverLens/task4/file_processor.log' with 27 lines.
+2025-06-17 13:00:06,514 - INFO - Processed file '/Users/admin/Desktop/DriverLens/task4/target/test.log' with 0 lines.
+2025-06-17 13:00:06,514 - INFO - Processed file '/Users/admin/Desktop/DriverLens/task4/target/test.txt' with 0 lines.
+2025-06-17 13:00:06,514 - INFO - Processed file '/Users/admin/Desktop/DriverLens/task4/source/test.log' with 0 lines.
+2025-06-17 13:00:06,514 - INFO - Processed file '/Users/admin/Desktop/DriverLens/task4/source/test.txt' with 0 lines.
+2025-06-17 13:00:06,514 - INFO - Processed files in directory '/Users/admin/Desktop/DriverLens/task4' with extensions ['.txt', '.log'].
+2025-06-17 13:02:13,870 - INFO - Target directory '/Users/admin/Desktop/DriverLens/task4/target' is ready.
+2025-06-17 13:02:13,870 - INFO - Copied file '/Users/admin/Desktop/DriverLens/task4/source/test.log' to '/Users/admin/Desktop/DriverLens/task4/target/./test.log'.
+2025-06-17 13:02:13,871 - INFO - Copied file '/Users/admin/Desktop/DriverLens/task4/source/test.txt' to '/Users/admin/Desktop/DriverLens/task4/target/./test.txt'.
+2025-06-17 13:02:13,871 - INFO - Copied file '/Users/admin/Desktop/DriverLens/task4/source/test/test.log' to '/Users/admin/Desktop/DriverLens/task4/target/test/test.log'.
+2025-06-17 13:02:13,871 - INFO - Successfully copied contents from '/Users/admin/Desktop/DriverLens/task4/source' to '/Users/admin/Desktop/DriverLens/task4/target'.
+2025-06-17 13:02:13,871 - INFO - Processed file '/Users/admin/Desktop/DriverLens/task4/file_processor.log' with 38 lines.
+2025-06-17 13:02:13,871 - INFO - Processed file '/Users/admin/Desktop/DriverLens/task4/target/test.log' with 0 lines.
+2025-06-17 13:02:13,871 - INFO - Processed file '/Users/admin/Desktop/DriverLens/task4/target/test.txt' with 0 lines.
+2025-06-17 13:02:13,871 - INFO - Processed file '/Users/admin/Desktop/DriverLens/task4/target/test/test.log' with 0 lines.
+2025-06-17 13:02:13,871 - INFO - Processed file '/Users/admin/Desktop/DriverLens/task4/source/test.log' with 0 lines.
+2025-06-17 13:02:13,871 - INFO - Processed file '/Users/admin/Desktop/DriverLens/task4/source/test.txt' with 0 lines.
+2025-06-17 13:02:13,871 - INFO - Processed file '/Users/admin/Desktop/DriverLens/task4/source/test/test.log' with 0 lines.
+2025-06-17 13:02:13,871 - INFO - Processed files in directory '/Users/admin/Desktop/DriverLens/task4' with extensions ['.txt', '.log'].
+2025-06-17 13:16:14,627 - INFO - Target directory '/Users/admin/Desktop/DriverLens/task4/target' is ready.
+2025-06-17 13:16:14,628 - INFO - Copied file '/Users/admin/Desktop/DriverLens/task4/source/test.log' to '/Users/admin/Desktop/DriverLens/task4/target/./test.log'.
+2025-06-17 13:16:14,628 - INFO - Copied file '/Users/admin/Desktop/DriverLens/task4/source/test.txt' to '/Users/admin/Desktop/DriverLens/task4/target/./test.txt'.
+2025-06-17 13:16:14,628 - INFO - Copied file '/Users/admin/Desktop/DriverLens/task4/source/test/test.log' to '/Users/admin/Desktop/DriverLens/task4/target/test/test.log'.
+2025-06-17 13:16:14,628 - INFO - Successfully copied contents from '/Users/admin/Desktop/DriverLens/task4/source' to '/Users/admin/Desktop/DriverLens/task4/target'.
+2025-06-17 13:16:14,628 - INFO - Processed file '/Users/admin/Desktop/DriverLens/task4/file_processor.log' with 51 lines.
+2025-06-17 13:16:14,628 - INFO - Processed file '/Users/admin/Desktop/DriverLens/task4/target/test.log' with 0 lines.
+2025-06-17 13:16:14,628 - INFO - Processed file '/Users/admin/Desktop/DriverLens/task4/target/test.txt' with 0 lines.
+2025-06-17 13:16:14,628 - INFO - Processed file '/Users/admin/Desktop/DriverLens/task4/target/test/test.log' with 0 lines.
+2025-06-17 13:16:14,628 - INFO - Processed file '/Users/admin/Desktop/DriverLens/task4/source/test.log' with 0 lines.
+2025-06-17 13:16:14,628 - INFO - Processed file '/Users/admin/Desktop/DriverLens/task4/source/test.txt' with 0 lines.
+2025-06-17 13:16:14,628 - INFO - Processed file '/Users/admin/Desktop/DriverLens/task4/source/test/test.log' with 0 lines.
+2025-06-17 13:16:14,628 - INFO - Processed files in directory '/Users/admin/Desktop/DriverLens/task4' with extensions ['.txt', '.log'].
+2025-06-17 13:16:31,997 - INFO - Target directory '/Users/admin/Desktop/DriverLens/task4/target' is ready.
+2025-06-17 13:16:31,998 - INFO - Copied file '/Users/admin/Desktop/DriverLens/task4/source/test.log' to '/Users/admin/Desktop/DriverLens/task4/target/./test.log'.
+2025-06-17 13:16:31,998 - INFO - Copied file '/Users/admin/Desktop/DriverLens/task4/source/test.txt' to '/Users/admin/Desktop/DriverLens/task4/target/./test.txt'.
+2025-06-17 13:16:31,998 - INFO - Copied file '/Users/admin/Desktop/DriverLens/task4/source/test/test.log' to '/Users/admin/Desktop/DriverLens/task4/target/test/test.log'.
+2025-06-17 13:16:31,998 - INFO - Successfully copied contents from '/Users/admin/Desktop/DriverLens/task4/source' to '/Users/admin/Desktop/DriverLens/task4/target'.
+2025-06-17 13:16:31,998 - INFO - Processed file '/Users/admin/Desktop/DriverLens/task4/file_processor.log' with 64 lines.
+2025-06-17 13:16:31,998 - INFO - Processed file '/Users/admin/Desktop/DriverLens/task4/target/test.log' with 0 lines.
+2025-06-17 13:16:31,998 - INFO - Processed file '/Users/admin/Desktop/DriverLens/task4/target/test.txt' with 0 lines.
+2025-06-17 13:16:31,998 - INFO - Processed file '/Users/admin/Desktop/DriverLens/task4/target/test/test.log' with 0 lines.
+2025-06-17 13:16:31,998 - INFO - Processed file '/Users/admin/Desktop/DriverLens/task4/source/test.log' with 0 lines.
+2025-06-17 13:16:31,998 - INFO - Processed file '/Users/admin/Desktop/DriverLens/task4/source/test.txt' with 0 lines.
+2025-06-17 13:16:31,999 - INFO - Processed file '/Users/admin/Desktop/DriverLens/task4/source/test/test.log' with 0 lines.
+2025-06-17 13:16:31,999 - INFO - Processed files in directory '/Users/admin/Desktop/DriverLens/task4' with extensions ['.txt', '.log'].
+2025-06-17 13:16:51,911 - INFO - Target directory '/Users/admin/Desktop/DriverLens/task4/target' is ready.
+2025-06-17 13:16:51,911 - INFO - Copied file '/Users/admin/Desktop/DriverLens/task4/source/test.log' to '/Users/admin/Desktop/DriverLens/task4/target/./test.log'.
+2025-06-17 13:16:51,911 - INFO - Copied file '/Users/admin/Desktop/DriverLens/task4/source/test.txt' to '/Users/admin/Desktop/DriverLens/task4/target/./test.txt'.
+2025-06-17 13:16:51,911 - INFO - Copied file '/Users/admin/Desktop/DriverLens/task4/source/test/test.log' to '/Users/admin/Desktop/DriverLens/task4/target/test/test.log'.
+2025-06-17 13:16:51,912 - INFO - Copied file '/Users/admin/Desktop/DriverLens/task4/source/test/nimadir/nimadir.txt' to '/Users/admin/Desktop/DriverLens/task4/target/test/nimadir/nimadir.txt'.
+2025-06-17 13:16:51,912 - INFO - Successfully copied contents from '/Users/admin/Desktop/DriverLens/task4/source' to '/Users/admin/Desktop/DriverLens/task4/target'.
+2025-06-17 13:16:51,912 - INFO - Processed file '/Users/admin/Desktop/DriverLens/task4/file_processor.log' with 78 lines.
+2025-06-17 13:16:51,912 - INFO - Processed file '/Users/admin/Desktop/DriverLens/task4/target/test.log' with 0 lines.
+2025-06-17 13:16:51,912 - INFO - Processed file '/Users/admin/Desktop/DriverLens/task4/target/test.txt' with 0 lines.
+2025-06-17 13:16:51,912 - INFO - Processed file '/Users/admin/Desktop/DriverLens/task4/target/test/test.log' with 0 lines.
+2025-06-17 13:16:51,912 - INFO - Processed file '/Users/admin/Desktop/DriverLens/task4/target/test/nimadir/nimadir.txt' with 0 lines.
+2025-06-17 13:16:51,912 - INFO - Processed file '/Users/admin/Desktop/DriverLens/task4/source/test.log' with 0 lines.
+2025-06-17 13:16:51,912 - INFO - Processed file '/Users/admin/Desktop/DriverLens/task4/source/test.txt' with 0 lines.
+2025-06-17 13:16:51,912 - INFO - Processed file '/Users/admin/Desktop/DriverLens/task4/source/test/test.log' with 0 lines.
+2025-06-17 13:16:51,912 - INFO - Processed file '/Users/admin/Desktop/DriverLens/task4/source/test/nimadir/nimadir.txt' with 0 lines.
+2025-06-17 13:16:51,912 - INFO - Processed files in directory '/Users/admin/Desktop/DriverLens/task4' with extensions ['.txt', '.log'].
